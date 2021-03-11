@@ -3,4 +3,5 @@
 **Bem vindo a minha lista de receitas**
 
 - Strogonoff de frango
+- Pavê
 
